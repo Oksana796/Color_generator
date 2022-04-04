@@ -1,0 +1,22 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  border: 3px solid;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+.btn:hover {
+  background: black;
+  color: white;
+}
+.container {
+  text-align: center;
+}
+.colorName {
+  font-size: 3rem;
+  align-items: center;
+}
